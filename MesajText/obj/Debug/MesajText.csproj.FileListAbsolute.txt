@@ -1,0 +1,11 @@
+C:\Users\lenovopc\source\repos\MesajText\MesajText\bin\Debug\MesajText.exe.config
+C:\Users\lenovopc\source\repos\MesajText\MesajText\bin\Debug\MesajText.exe
+C:\Users\lenovopc\source\repos\MesajText\MesajText\bin\Debug\MesajText.pdb
+C:\Users\lenovopc\source\repos\MesajText\MesajText\obj\Debug\MesajText.csproj.AssemblyReference.cache
+C:\Users\lenovopc\source\repos\MesajText\MesajText\obj\Debug\MesajText.Form1.resources
+C:\Users\lenovopc\source\repos\MesajText\MesajText\obj\Debug\MesajText.Properties.Resources.resources
+C:\Users\lenovopc\source\repos\MesajText\MesajText\obj\Debug\MesajText.csproj.GenerateResource.cache
+C:\Users\lenovopc\source\repos\MesajText\MesajText\obj\Debug\MesajText.csproj.CoreCompileInputs.cache
+C:\Users\lenovopc\source\repos\MesajText\MesajText\obj\Debug\MesajText.exe
+C:\Users\lenovopc\source\repos\MesajText\MesajText\obj\Debug\MesajText.pdb
+C:\Users\lenovopc\source\repos\MesajText\MesajText\obj\Debug\MesajText.Form2.resources
